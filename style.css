@@ -1,0 +1,10 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    font-size: 35px;
+    box-shadow: blue;
+}
